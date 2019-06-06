@@ -11,4 +11,4 @@ docker-compose up --build -d
 ```
 ### How to contribute
 
-see [here](contributing/CONTRIBUTING.md)
+see [here](/contribute/CONTRIBUTE.md)
