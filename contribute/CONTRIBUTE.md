@@ -1,4 +1,4 @@
-# Hot to add images with GitHub desktop
+# How to add images with GitHub desktop
 
 ##### 1. Get [GitHub Desktop](https://desktop.github.com/)
 
