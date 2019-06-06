@@ -9,3 +9,6 @@ The images are stored in a docker container.
 ```
 docker-compose up --build -d
 ```
+### How to contribute
+
+see [here](contributing/CONTRIBUTING.md)
