@@ -1,4 +1,4 @@
-# Wolpertinger image server
+# <img src="logo.png" width="100"/> Wolpertinger image server
 
 ## Project setup
 
